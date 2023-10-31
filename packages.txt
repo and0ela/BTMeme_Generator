@@ -1,2 +1,2 @@
 libxrender1
-libxxf86vm
+mesa-libGL-devel
