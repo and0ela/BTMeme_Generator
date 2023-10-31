@@ -2,9 +2,7 @@ import streamlit as st
 import subprocess
 from PIL import Image
 import math
-import bpy
 import os
-import threading
 
 
 
