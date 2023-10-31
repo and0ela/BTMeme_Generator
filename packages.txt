@@ -1,2 +1,2 @@
 libxrender1
-libXxf86vm
+libXxf86vm-dev
