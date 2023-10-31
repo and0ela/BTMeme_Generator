@@ -1,3 +1,4 @@
 streamlit
 bpy
 libxrender1
+patchelf
